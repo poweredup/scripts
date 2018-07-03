@@ -1,0 +1,318 @@
+[Header]
+ProjectFileVersion = "1.1"
+[General]
+Program name = TokenPlay
+Program version = 0.0.1
+Windows 2000 = 0
+Windows XP = 0
+Windows Server 2003 = 0
+Windows Vista = 0
+Windows Server 2008 = 0
+Windows 7 = 1
+Windows 8 = 1
+Windows 10 = 1
+Windows Server 2016 = 0
+DoNotCheckOS = 0
+Company name = BlocPlay Entertainment
+Website = http://www.tokenplay.com
+SFA = 1
+DFA = 1
+Comp = 1
+[Graphics]
+Wizard image = <main>
+Header image = <main>
+Install-icon image = <main>
+Show Label = 1
+Windows style = 1
+XpStyle = 1
+[Files]
+Include Zipfile = 0
+Zipfile = 
+Installation path = <programfiles>\TokenPlay\
+Autcip = 1
+[Uninstall]
+Vwau = 0
+Website = 
+Include uninstaller = 1
+Uninstaller filename = Uninstall
+[Licence]
+Licence dialog = 1
+[Finish]
+Sart program = 1
+Reboot computer = 0
+Execute DLL: = 0
+Program = <installpath>\tokenplayupdater.exe
+ProgramArguments = 
+Dll = 
+[Shortcuts]
+Allowtc = 0
+Shortcut path = TokenPlay\
+[Serialoptions]
+Allows = 0
+Number = 20
+[SplashScreen]
+Image = C:\Users\vamma\Desktop\Background.jpg
+Sound = 
+Time = 2
+PlaySound = 0
+Allow = 1
+[Build]
+File = C:\Users\vamma\Desktop\SetupTokenPlay.exe
+[Updater]
+Allow = 1
+1 = TokenPlay
+2 = 0.0.1
+3 = http://files.tokenplay.com/builds/
+4 = http://files.blocplays.com/builds/
+5 = 
+6 = tokenplayupdater
+Language = 0
+RunProg = tokenplay.exe
+RunProgs = 1
+Execdlls = 1
+[Languages]
+[Files/Dirs]
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-console-l1-1-0.dll
+18.8 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-datetime-l1-1-0.dll
+18.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-debug-l1-1-0.dll
+18.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-errorhandling-l1-1-0.dll
+18.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-file-l1-1-0.dll
+21.8 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-file-l1-2-0.dll
+18.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-file-l2-1-0.dll
+18.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-handle-l1-1-0.dll
+18.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-heap-l1-1-0.dll
+18.8 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-interlocked-l1-1-0.dll
+18.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-libraryloader-l1-1-0.dll
+18.8 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-localization-l1-2-0.dll
+20.8 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-memory-l1-1-0.dll
+18.8 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-namedpipe-l1-1-0.dll
+18.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-processenvironment-l1-1-0.dll
+19.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-processthreads-l1-1-0.dll
+20.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-processthreads-l1-1-1.dll
+18.8 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-profile-l1-1-0.dll
+17.8 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-rtlsupport-l1-1-0.dll
+18.8 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-string-l1-1-0.dll
+18.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-synch-l1-1-0.dll
+20.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-synch-l1-2-0.dll
+18.8 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-sysinfo-l1-1-0.dll
+19.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-timezone-l1-1-0.dll
+18.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-core-util-l1-1-0.dll
+17.4 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-crt-conio-l1-1-0.dll
+19.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-crt-convert-l1-1-0.dll
+22.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-crt-environment-l1-1-0.dll
+18.8 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-crt-filesystem-l1-1-0.dll
+20.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-crt-heap-l1-1-0.dll
+19.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-crt-locale-l1-1-0.dll
+18.8 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-crt-math-l1-1-0.dll
+26.4 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-crt-multibyte-l1-1-0.dll
+26.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-crt-private-l1-1-0.dll
+69.8 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-crt-process-l1-1-0.dll
+19.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-crt-runtime-l1-1-0.dll
+21.9 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-crt-stdio-l1-1-0.dll
+24.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-crt-string-l1-1-0.dll
+24.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-crt-time-l1-1-0.dll
+20.8 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\api-ms-win-crt-utility-l1-1-0.dll
+18.8 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\blink_image_resources_200_percent.pak
+26.1 KB
+pak
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\content_resources_200_percent.pak
+15 Byte
+pak
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\content_shell.pak
+8.3 MB
+pak
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\d3dcompiler_47.dll
+4 MB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\EULA.rtf
+6.1 KB
+rtf
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\ffmpeg.dll
+1.9 MB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\icon.ico
+296.3 KB
+ico
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\icudtl.dat
+9.7 MB
+dat
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\libEGL.dll
+17.5 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\libGLESv2.dll
+3.5 MB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\LICENSE
+1 KB
+
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\LICENSES.chromium.html
+1.7 MB
+html
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\msvcp140.dll
+618.3 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\natives_blob.bin
+216.8 KB
+bin
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\node.dll
+17 MB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\pdf_viewer_resources.pak
+160.3 KB
+pak
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\snapshot_blob.bin
+1.5 MB
+bin
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\tokenplay.exe
+64.6 MB
+exe
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\ucrtbase.dll
+977.8 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\ui_resources_200_percent.pak
+75.1 KB
+pak
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\vcruntime140.dll
+85.8 KB
+dll
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\version
+6 Byte
+
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\views_resources_200_percent.pak
+56.1 KB
+pak
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\locales\
+n/a
+[Folder]
+C:\Users\vamma\Desktop\tokenplay-electron-build\build\resources\
+n/a
+[Folder]
+[Licence_Begin]
+6266
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 MS Shell Dlg;}{\f2\fswiss\fcharset0 Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\lang4105\b\f0\fs18 TOKENPLAY INC. NDA (Non-Disclosure Agreement)\b0\par
+www.tokenplay.com\par
+\par
+It is understood and agreed upon that \b TokenPlay Inc. \b0 ('TokenPlay') and the \b enduser, gamer, alpha/beta tester \b0 ('TESTER') would like to exchange certain information that maybe considered confidential. To ensure the protection of such information and in consideration of the agreement to exchange said information, the parties shall agree as follows: \fs24\par
+ \par
+\b\fs18 1. \b0 The confidential information to be disclosed by TOKENPLAY under this Agreement ("Confidential Information") can be described as follows: Technical and business information relating to TOKENPLAY's proprietary ideas, patentable ideas copyrights and/or trade secrets, existing and/or contemplated products and services, software, schematics, research and development, production, costs, profit and margin information, finances and financial projections, customers, clients, marketing, and current or future business plans and models, regardless of whether such information is designated as "Confidential Information" at the time of its disclosure.\par
+\par
+In addition to the above, Confidential Information shall also include, and the TESTER shall have a duty to protect, other confidential and/or sensitive information which is (a) disclosed by TOKEN PLAY in writing and marked as confidential (or with other similar designation) at the time of disclosure; and/or (b) disclosed by TOKEN PLAY in any other manner and identified as confidential at the time of disclosure and is also summarized and designated as confidential in a written memorandum delivered to TESTER within thirty (30) days of the disclosure.\par
+\fs24\par
+\b\fs18 2. \b0 TESTER shall use the Confidential Information only for the purpose to test the \b TokenPlay App \b0 developed by TOKENPLAY. \par
+\par
+\b 3. \b0 TESTER shall limit disclosure of Confidential Information among family and friends having a need to know and shall not disclose Confidential Information to any third party (whether an individual, corporation, or other legal entity) without the prior written consent of TOKEN PLAY. TESTER shall have satisfied its obligations under this paragraph if it takes affirmative measures to ensure compliance with these confidentiality obligations. \par
+\par
+\b 4. \b0 This Agreement imposes no obligation upon TESTER with respect to any Confidential Information (a) that was in TESTER's possession before receipt of official game materials from TOKENPLAY; (b) is or becomes a matter of public knowledge through no fault of TESTER; (c) is rightfully received by TESTER from a third party not owing a duty of confidentiality to the TOKENPLAY; (d) is disclosed without a duty of confidentiality to a third party by, or with the authorization of, TOKENPLAY; or (e) is independently developed by TESTER.\par
+\fs24\par
+\b\fs18 5. \b0 TOKENPLAY warrants that it has the right to make the disclosures under this Agreement. \par
+\par
+\b 6. \b0 This Agreement shall not be construed as creating, conveying, transferring, granting or conferring upon the TESTER any rights, license or authority in or to the information exchanged, except the limited right to use Confidential information specified in paragraph 2. Furthermore and specifically, no license or conveyance of any intellectual property rights is granted or implied by this Agreement. \par
+\par
+\b 7. \b0 Neither party has an obligation under this Agreement to purchase any service, goods, or intangibles from the other party. TOKENPLAY may, at its sole discretion, using its own information, offer such products and/or services for sale and modify them or discontinue sale at any time. Furthermore, both parties acknowledge and agree that the exchange of information under this Agreement shall not commit or bind either party to any present or future contractual relationship (except as specifically stated herein), nor shall the exchange of information be construed as an inducement to act or not to act in any given manner. \cf0\f1\fs24\par
+\fs17\par
+\pard\sa160\sl252\slmult1\b\f0\fs18 8.\b0  Neither party shall be liable to the other in any manner whatsoever for any decisions, obligations, costs or expenses incurred, changes in business practices, plans, organization, products, services, or otherwise, based on either party's decision to use or rely on any information exchanged under this Agreement.\par
+\b 9.\b0  If there is a breach or threatened breach of any provision of this Agreement, it is agreed and understood that TOKENPLAY shall have no adequate remedy in money or other damages and accordingly shall be entitled to injunctive relief; provided however, no specification in this Agreement of any particular remedy shall be construed as a waiver or prohibition of any other remedies in the event of a breach or threatened breach of this Agreement.\par
+\b 10.\b0 This Agreement will be governed by and interpreted in accordance with the laws of the Province of Ontario, Canada. The parties hereby agree that any dispute regarding the interpretation or validity of this Agreement will be subject to the exclusive jurisdiction of the provincial courts in and for Toronto, Ontario, Canada, and the parties agree to submit to the personal and exclusive jurisdiction and venue of these courts. TESTER acknowledges and agrees that, in event of any breach of the provisions of this Agreement, in addition to any and all other remedies, TOKENPLAY shall be entitled to equitable relief including injunction and specific performance. In any action or proceeding to enforce the provisions of this Agreement the prevailing party shall be entitled to an award of all attorney fees and costs incurred.\par
+\b 11.\b0  If any of the provisions of this Agreement are found to be unenforceable, the remainder shall be enforced as fully as possible and the unenforceable provision(s) shall be deemed modified to the limited extent required to permit enforcement of the Agreement as a whole.\cf1\lang1033\b\f2\par
+}
+ [Licence_End]
+[Registry]
+HKEY_CURRENT_USER
+Software\TokenPlay
+Installed
+true
+1
+[Variables]
+[SCs]
+Desktop
+TokenPlay
+<programfiles>\TokenPlay\tokenplayupdater.exe
+
+<programfiles>\TokenPlay\icon.ico
+0
+[IFP_End]
+[Serials]
+[Serials_End]
+[Commands]
